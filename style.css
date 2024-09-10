@@ -67,19 +67,9 @@ form{
 
 h2{
     text-align: center;
-}
-
-#footerlogo{
-    color: aliceblue;
-}
-
-#newsletterheader{
     color: black;
 }
 
-#title{
-    color: black;
-}
 
 body > footer{
     display: flex;
