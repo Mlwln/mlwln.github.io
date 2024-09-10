@@ -70,6 +70,10 @@ h2{
     color: black;
 }
 
+h2{
+    color: aliceblue;
+}
+
 body > footer{
     display: flex;
     background-color: rgb(222, 79, 127);
