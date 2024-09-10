@@ -67,11 +67,12 @@ form{
 
 h2{
     text-align: center;
+    color: azure;
 }
 
 body > footer{
     display: flex;
-    background-color: mediumslateblue;
+    background-color: palevioletred;
 }
 
 #footer-ul{
